@@ -1,0 +1,678 @@
+{
+  "edition": "First review",
+  "checked_on": "2026-11-07",
+  "distinct_places": 184,
+  "selected_source_records": 188,
+  "merged_same_branch_overlaps": 4,
+  "art_spaces": 17,
+  "experiences": 24,
+  "core_neighbourhood_histories": 20,
+  "area_pages": 45,
+  "type_pages": 11,
+  "category_memberships": {
+    "experiences": 24,
+    "art": 17,
+    "restaurants": 34,
+    "street-food": 16,
+    "breakfast": 20,
+    "coffee-matcha": 33,
+    "bakery": 5,
+    "vinyl": 7,
+    "clothes": 25,
+    "local-goods": 12,
+    "bars-music": 9
+  },
+  "verification_gap_cards": 97,
+  "venue_photo_cards": 54,
+  "text_only_cards": 130,
+  "area_image_pages": 19,
+  "district_or_landmark_tourism_images": 4,
+  "apple_direct_pois_resolved": 0,
+  "apple_search_links": 184,
+  "google_search_links": 184,
+  "scope_counts": {
+    "all": 184,
+    "area-central": 27,
+    "area-sheung-wan": 15,
+    "area-sai-ying-pun": 7,
+    "area-kennedy-town": 4,
+    "area-wan-chai": 17,
+    "area-causeway-bay": 12,
+    "area-tai-hang": 5,
+    "area-north-point": 2,
+    "area-quarry-bay": 1,
+    "area-wong-chuk-hang": 3,
+    "area-tin-wan": 1,
+    "area-tsim-sha-tsui": 10,
+    "area-jordan": 7,
+    "area-yau-ma-tei": 2,
+    "area-mong-kok": 6,
+    "area-sham-shui-po": 13,
+    "area-shek-kip-mei": 2,
+    "area-to-kwa-wan": 5,
+    "area-kowloon-city": 4,
+    "area-tsuen-wan": 1,
+    "area-cheung-chau": 1,
+    "area-diamond-hill": 1,
+    "area-fortress-hill": 2,
+    "area-happy-valley": 2,
+    "area-high-island": 1,
+    "area-hung-hom": 1,
+    "area-kai-tak": 3,
+    "area-kowloon-bay": 1,
+    "area-lamma-island": 1,
+    "area-ping-shan": 1,
+    "area-prince-edward": 6,
+    "area-sai-kung": 1,
+    "area-sai-wan-ho": 1,
+    "area-sha-tin": 1,
+    "area-shau-kei-wan": 2,
+    "area-shek-o-country-park": 1,
+    "area-shek-tong-tsui": 1,
+    "area-sheung-shui": 1,
+    "area-tai-kok-tsui": 1,
+    "area-tai-o": 1,
+    "area-the-peak": 1,
+    "area-tin-hau": 1,
+    "area-tung-tsz": 1,
+    "area-west-kowloon": 3,
+    "area-yuen-long": 4,
+    "type-experiences": 24,
+    "type-art": 17,
+    "type-restaurants": 34,
+    "type-street-food": 16,
+    "type-breakfast": 20,
+    "type-coffee-matcha": 33,
+    "type-bakery": 5,
+    "type-vinyl": 7,
+    "type-clothes": 25,
+    "type-local-goods": 12,
+    "type-bars-music": 9
+  },
+  "images": [
+    {
+      "id": "aokomi",
+      "url": "https://aokomi.co/cdn/shop/files/C0_4541_1280x.jpg?v=17456369456671466905",
+      "source": "https://aokomi.co/",
+      "alt": "Aokomi matcha drink close-up, dusted with green matcha powder",
+      "credit": "Aokomi 若葉 / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "bakehouse-wan-chai",
+      "url": "https://cdn.prod.website-files.com/5f3cf08a203847e03aec14f9/64f029e8fa28e75aaf621b85_5f3f5f8bf79ef61c1cb752ce_Bakehouse2-p-800.webp",
+      "source": "https://www.bakehouse.hk/locations",
+      "alt": "Grégoire Michaud outside Bakehouse Wan Chai",
+      "credit": "Bakehouse / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "sepia",
+      "url": "https://static.wixstatic.com/media/a68747_c5f503ce7957429d8bf219bb8042cf12~mv2.jpeg",
+      "source": "https://www.bar-sepia.com/",
+      "alt": "Cocktail with a melon garnish at Bar Sepia; product image, not the listening room",
+      "credit": "Bar Sepia — The Listening Room / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "coda",
+      "url": "https://codajazzkissa.com/cdn/shop/files/BEB06567_copy_b15b94ca-2ca2-428e-9445-22c7e768747c.jpg?v=1735571343&width=3840",
+      "source": "https://codajazzkissa.com/",
+      "alt": "Warmly lit CODA seating area with record sleeves displayed above the tables",
+      "credit": "CODA Jazz Kissa / 爵士喫茶 / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "chart-central-market",
+      "url": "https://chart.coffee/assets/images/image05.jpg?v=55352800",
+      "source": "https://chart.coffee/",
+      "alt": "Chart Coffee counter at Central Market in operator location image",
+      "credit": "Chart Coffee / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "fineprint-peel",
+      "url": "https://fineprint.hk/cdn/shop/files/FINEPRINT-PS-team-b_w.png?v=1782911965",
+      "source": "https://fineprint.hk/pages/location-soho",
+      "alt": "FINEPRINT team standing outside the Peel Street café",
+      "credit": "FINEPRINT / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "harrison",
+      "url": "https://harrisonwong.com/cdn/shop/files/2705__2_1.jpg?v=1787034744&width=533",
+      "source": "https://harrisonwong.com/",
+      "alt": "Harrison Wong model wearing a grey blazer and dark trousers; collection photograph, not a shop interior.",
+      "credit": "HARRISON WONG — PMQ / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "ink",
+      "url": "https://www.ink-clothing.com/en/images/store/m1s.jpg",
+      "source": "https://www.ink-clothing.com/en/store.php",
+      "alt": "INK Clothing interior with racks of dark garments.",
+      "credit": "INK Clothing / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "islamic-centre-canteen",
+      "url": "https://iuhk.org/images/Canteen/DimSum.jpg",
+      "source": "https://iuhk.org/index.php/our-service/islamic-centre-canteen",
+      "alt": "Dim sum in bamboo baskets on the Islamic Union canteen website.",
+      "credit": "Islamic Centre Canteen / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "ju-xing-home",
+      "url": "https://juxinghome.com/wp-content/uploads/2017/10/slide_03a.jpg",
+      "source": "https://juxinghome.com/",
+      "alt": "Ju Xing Home operator food photograph of prawns in sauce over crisp noodles; logo is part of the image.",
+      "credit": "Ju Xing Home / 聚興家",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "lockcha-shop",
+      "url": "https://www.lockcha.com/static/0bcdedf0370e309e4d1fec86539b9ea8/62e45/tai-kwun.jpg",
+      "source": "https://www.lockcha.com/locations/tai-kwun/",
+      "alt": "LockCha Tai Kwun teahouse interior.",
+      "credit": "LockCha flagship tea shop — Tai Kwun / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "mplus",
+      "url": "https://www.mplus.org.hk/api/images/2261/width-1200|format-jpeg/",
+      "source": "https://www.mplus.org.hk/en/plan-your-visit/",
+      "alt": "M+ gallery interior with abstract paintings and a bench; not the exterior facade.",
+      "credit": "M+; individual photographer not identified on retrieved page",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "midway",
+      "url": "https://format.creatorcdn.com/2fee0619-238f-43c9-a805-d6bf6058efaa/0/0/0/0,0,2424,3024,1140,1422/0-0-0/908307c0-4374-4682-89ae-37e8b108696a/1/2/Shop+Front+2024.jpg?fjkss=exp=2109665862~hmac=b2a373eb5dcc4cfa7feb2aee3fa5fb53b87493bd3b46e02c63d41b2d2aa3bcc1",
+      "source": "https://www.midway.voyage/shop",
+      "alt": "MIDWAY street frontage in its operator photograph.",
+      "credit": "MIDWAY shop / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "man-kee",
+      "url": "https://images.squarespace-cdn.com/content/v1/694f45a43fd8625b81f6ab77/fe6a3fc1-fd63-4af5-89f0-d50bb22efa6f/man+kee+cart+noodle.jpg",
+      "source": "https://www.mankeecartnoodles.com/",
+      "alt": "Man Kee cart-noodle toppings and bowls; operator food photograph.",
+      "credit": "Man Kee Cart Noodles — Sham Shui Po / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "matchali-moon",
+      "url": "https://matchali.com/cdn/shop/files/Store_Interior.webp?v=1690170137&width=1500",
+      "source": "https://matchali.com/",
+      "alt": "Matchali Moon Street café seating and bar shown on official homepage",
+      "credit": "Matchali / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "oma-tai-hang",
+      "url": "https://cdn.shopify.com/s/files/1/0685/4888/6831/files/3c5d1fea-8dac-4793-8fee-9f67e03d36ac_480x480.jpg?v=1669607499",
+      "source": "https://omacoffeeroaster.com/pages/contact",
+      "alt": "OMA Tai Hang window lettering and 08:30–18:00 hours",
+      "credit": "OMA Specialty Coffee / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "rick",
+      "url": "https://www.rickowens.eu/cdn/shop/files/original_Rick_Owens_HK_01.jpg?v=1760005081&width=4032",
+      "source": "https://www.rickowens.eu/pages/stores/hong-kong",
+      "alt": "Rick Owens shopfront at the current Hong Kong store, with garments behind glass",
+      "credit": "Rick Owens Hong Kong / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "sang-to-kwa-wan",
+      "url": "https://sangroastery.com/cdn/shop/files/DSCF2177_1024x1024.jpg?v=1626702344",
+      "source": "https://sangroastery.com/",
+      "alt": "Brown bag of Sang Roastery coffee with red brand mark",
+      "credit": "Sang Roastery 生昌焙豆 / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "peak-circle-walk",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/p/peak-circle-walk/peak-circle-walk-01.jpg",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-peak-circle-walk.html",
+      "alt": "Harbour panorama from the Peak Circle Walk.",
+      "credit": "The Peak via Lugard Road / Peak Circle Walk / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "uncle-ben-fortress-hill",
+      "url": "https://unclebencoffee.com/cdn/shop/files/11347A2E-0121-4DC4-9133-43A466F6CCC9.jpg?v=1648749628&width=3840",
+      "source": "https://unclebencoffee.com/",
+      "alt": "Uncle Ben branded coffee products and a cup on a blue background",
+      "credit": "Uncle Ben Coffee / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "one-a-space",
+      "url": "https://static.wixstatic.com/media/fab745_4f69b292c18b4919afd8752247fc97b1%7Emv2_d_6094_2381_s_2.jpg/v1/fit/w_2500,h_1330,al_c/fab745_4f69b292c18b4919afd8752247fc97b1%7Emv2_d_6094_2381_s_2.jpg",
+      "source": "https://www.oneaspace.org.hk/plan-your-visit",
+      "alt": "1a space promotional banner showing its gallery interior; not a current exhibition claim.",
+      "credit": "1a space / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "8five2",
+      "url": "https://images.storeberry.chat/shops/j189/photos/lhbQSUJBZyZpTKPpVVNvfHx5xibG6OKQ.jpg",
+      "source": "https://shop.8five2.com/",
+      "alt": "Black cap sold by 8FIVE2; product photo, not its store.",
+      "credit": "8FIVE2 / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "artista-causeway-bay",
+      "url": "https://cdn.shopify.com/s/files/1/0478/2430/6331/files/ap-web-01.-cwb_480x480.jpg?v=1677317334",
+      "source": "https://artistaperfetto.com/pages/store-info",
+      "alt": "Official Artista Perfetto Causeway Bay image combining exterior and coffee detail",
+      "credit": "Artista Perfetto / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "sausalito-sham-shui-po",
+      "url": "https://images.squarespace-cdn.com/content/v1/58d4aa0e3e00be3f84a1b7ea/ea7c12c9-7d6f-4958-ac41-2be72e4eef7d/BlackCoffee.jpg",
+      "source": "https://www.cafesausalitohk.com/menu",
+      "alt": "Cup of black coffee and packaged coffee on the operator website; brand product photo, not branch interior.",
+      "credit": "Café Sausalito / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "coffee-analog",
+      "url": "https://images.squarespace-cdn.com/content/v1/5fb73adfb998cb42701bae77/0e996575-65ae-45ef-9118-a41146264fa9/WhatsApp+Image+2026-01-09+at+20.13.52.jpeg",
+      "source": "https://coffeeanalog.hk/",
+      "alt": "Coffee Analog milk coffee with latte art on a dark table",
+      "credit": "Coffee Analog 安樂珈琲 / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "first-sip",
+      "url": "https://img1.wsimg.com/isteam/ip/a6c53a93-3651-47e5-b2db-775aa524167e/DDA5B0B2-6778-4C54-9460-6D1843C7C3CD.JPG",
+      "source": "https://firstsiphk.com/",
+      "alt": "First Sip street frontage, shown on its own website.",
+      "credit": "First Sip / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "kanamono",
+      "url": "https://images.squarespace-cdn.com/content/v1/65cee19a59154728b261e4ce/d6e91b89-69f1-4f5e-b4b3-05497de87d01/WBE+SITE+MAIN+PHOTO_2800.jpg",
+      "source": "https://www.kanamonohk.com/",
+      "alt": "Kanamono’s corner storefront with tools and household goods visible inside",
+      "credit": "Kanamono Hardware Store / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "kiang-malingue",
+      "url": "https://kiangmalingue.com/wordpress/wp-content/uploads/2025/09/BEAU_Edouard-Malingue_Sik-On_XU-Liang-Leon_Btach-1_02-1.jpg",
+      "source": "https://kiangmalingue.com/contact/",
+      "alt": "Kiang Malingue Sik On Street exterior beside public steps.",
+      "credit": "Kiang Malingue; architectural photograph credited by filename to XU Liang Leon / BEAU, individual credit not independently confirmed",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "lost-stars",
+      "url": "https://cdn.prod.website-files.com/674d69818ccc5d1d755018cf/67d286377afe7b2f1639c52e_WA109025-Enhanced-NR-2-min.jpg",
+      "source": "https://www.loststars.hk/",
+      "alt": "Bartender preparing colourful cocktails at Lost Stars; product/service image, not the performance room",
+      "credit": "Lost Stars Livehouse Bar & Eatery / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "loveramics",
+      "url": "https://www.loveramics.com/cdn/shop/files/loveramics_shop_taikwun_2025_00071.png?v=1756275591&width=2048",
+      "source": "https://www.loveramics.com/pages/loveramics-taikwun",
+      "alt": "Loveramics Tai Kwun shop interior and ceramic displays.",
+      "credit": "Loveramics Tai Kwun / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "man-mo-temple",
+      "url": "https://temples.tungwahcsd.org/content/files/temple/man-mo-temple/HK_3A_1270.jpg",
+      "source": "https://temples.tungwahcsd.org/twghs-man-mo-temple?_lang=en",
+      "alt": "Man Mo Temple interior with hanging plaques and lanterns.",
+      "credit": "Tung Wah Group of Hospitals; individual photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "nan-lian-garden",
+      "url": "https://www.lcsd.gov.hk/en/parks/nlg/common/graphics/nlg_banner.jpg",
+      "source": "https://www.lcsd.gov.hk/en/parks/nlg/index.html",
+      "alt": "Nan Lian Garden pond and pavilions in an operator banner.",
+      "credit": "Nan Lian Garden and Chi Lin surroundings / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "oma",
+      "url": "https://static.wixstatic.com/media/4510bb_ab39311608244941a5022856339c2e34~mv2.jpg",
+      "source": "https://www.omahongkong.com/",
+      "alt": "DJ facing the crowd inside OMA, shown on the club’s official website",
+      "credit": "OMA / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "oi-oil-street",
+      "url": "https://www.apo.hk/image/oi!/2022/oi!_Main-page/Facilities/7-%E6%B2%B9%E8%A1%97%E8%8A%B1%E5%9C%92-Oil-Garden/Desktop/oil-desktop-main-spaces-oil-garden.jpg",
+      "source": "https://www.apo.hk/en/web/apo/oi.html",
+      "alt": "Oi! garden and contemporary building edge; operator architectural photograph.",
+      "credit": "Art Promotion Office / LCSD; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "one-dim-sum-tst",
+      "url": "https://onedimsum.hk/wp-content/uploads/2023/07/slider02.jpg",
+      "source": "https://onedimsum.hk/?lang=en",
+      "alt": "One Dim Sum brand food photograph of steamed buns, siu mai and rice rolls; not proof of the Hart Avenue interior.",
+      "credit": "One Dim Sum / 一點心",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "samsen-wan-chai",
+      "url": "https://cdn.prod.website-files.com/5f367d6c3a168c5274a2eff1/5f69c264bcaae8041535018a_WC-WagyuBoatNoodleSoupLunchDinner.avif",
+      "source": "https://www.samsen-hk.com/wan-chai",
+      "alt": "Samsen Wan Chai beef boat noodles with side dishes on a green patterned table.",
+      "credit": "Samsen",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "sour-dough-wan-chai",
+      "url": "https://static.wixstatic.com/media/f0bef9_6e848734b49d4250a2fe5196817d361e~mv2.jpg",
+      "source": "https://www.sourdoughcafehk.com/",
+      "alt": "Sour Dough pastry and bread display counter",
+      "credit": "Sour Dough / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "studio-caffeine-jordan",
+      "url": "https://www.studiocaffeine.com.hk/cdn/shop/files/IMG_6378.jpg?v=1754994862&width=3840",
+      "source": "https://www.studiocaffeine.com.hk/pages/find-us",
+      "alt": "Studio Caffeine Jordan street-facing storefront",
+      "credit": "Studio Caffeine / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "tai-hang-fire-dragon-centre",
+      "url": "https://www.firedragon.org.hk/wp-content/uploads/2022/01/contact-img-828x1000.jpg",
+      "source": "https://www.firedragon.org.hk/en/contact-us",
+      "alt": "Tai Hang Fire Dragon Heritage Centre exterior, presented against a pink graphic background.",
+      "credit": "Tai Hang Fire Dragon Heritage Centre; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "tak-kee",
+      "url": "https://i0.wp.com/takkeehk.wordpress.com/wp-content/uploads/2015/09/img_3053.jpg?fit=1200%2C800&ssl=1",
+      "source": "https://takkeehk.wordpress.com/",
+      "alt": "Tak Kee street frontage in a historical operator photograph; not a current-day status check.",
+      "credit": "Tak Kee Chiu Chow Restaurant / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "tomorrow-maybe",
+      "url": "https://img1.wsimg.com/isteam/ip/f433e419-2257-464b-80d7-b23036d68b5e/Tomorrow%20Maybe.jpg/:/rs=w:814,h:407,cg:true,m/cr=w:814,h:407",
+      "source": "https://tomorrowmaybehk.com/about",
+      "alt": "Tomorrow Maybe installation photograph with dual projections; historical programme view.",
+      "credit": "Tomorrow Maybe / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "vission-staunton",
+      "url": "https://www.vissionbakery.com/cdn/shop/collections/mochimatcha.jpg?v=1747128061&width=1500",
+      "source": "https://www.vissionbakery.com/",
+      "alt": "Vission Bakery green matcha pastry from its puff-pastry collection image",
+      "credit": "Vission Bakery / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "workware",
+      "url": "https://www.workwarehk.com/cdn/shop/files/9E59F996-43E1-4EF9-AA18-DB6E1688E620_1_201_a.jpg?v=1793943253&width=480",
+      "source": "https://www.workwarehk.com/",
+      "alt": "Workware model wearing an oversized blue shirt; product photograph, not a shop interior.",
+      "credit": "WORKWARE K11 Art Mall / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "winstons-sai-ying-pun",
+      "url": "https://www.winstonscoffee.com/cdn/shop/files/Winstons-Sai-Ying-Pun_Coffee-Shop-Bar-Food_Hong_Kong_900px_B.jpg?v=1731577960&width=550",
+      "source": "https://www.winstonscoffee.com/index.html",
+      "alt": "Winstons Coffee Sai Ying Pun corner frontage with customers outside",
+      "credit": "Winstons Coffee / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "cheung-chau",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/p/pak-tai-temple-at-cheung-chau/pak-tai-temple-1200x630.jpg",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-pak-tai-temple-at-cheung-chau.html",
+      "alt": "Pak Tai Temple facade on Cheung Chau, not a view of the whole island.",
+      "credit": "Cheung Chau harbour and Pak Tai Temple / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "dragon-back",
+      "url": "https://www.hiking.gov.hk/console/public/uploads/trail/watermark/685e15f9cf84b.jpg",
+      "source": "https://www.hiking.gov.hk/trail/info/id/UWgvZytZSlRrcnBJSU5DWVZUa2pyUT09/",
+      "alt": "View over Shek O and the coast from the Dragon’s Back route.",
+      "credit": "Agriculture, Fisheries and Conservation Department; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "film-archive-screening",
+      "url": "https://www.filmarchive.gov.hk/image/journal/article-27330227.jpeg",
+      "source": "https://www.filmarchive.gov.hk/en/web/hkfa/facilities.html",
+      "alt": "Seating and screen inside the Hong Kong Film Archive cinema.",
+      "credit": "Hong Kong Film Archive screening / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "heritage-museum-pop-culture",
+      "url": "https://www.heritagemuseum.gov.hk/images/Exhibition/bruce_lee/BLL_1032_1920x1080.jpg",
+      "source": "https://www.heritagemuseum.gov.hk/en/exhibitions/bruce_lee.html",
+      "alt": "Installation view from the Heritage Museum Bruce Lee exhibition.",
+      "credit": "Hong Kong Heritage Museum: Bruce Lee and popular culture / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "kai-kee-yuen-long",
+      "url": "https://www.yl.hk/b/images/2001_12b.jpg",
+      "source": "https://www.yl.hk/b/",
+      "alt": "Operator promotional product photo of fruit dessert rice noodles, with watermelon, mango and dragon fruit; not a branch photo.",
+      "credit": "Kai Kee Dessert / 佳記甜品",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "phd-group",
+      "url": "https://cdn.sanity.io/images/z3dq9mvc/production/e7048acdbfefbdfad3aed2b11f03d340e1619c7f-7774x5831.jpg",
+      "source": "https://www.phdgroup.art/about",
+      "alt": "PHD Group exhibition installation in a bare concrete gallery room; not an exterior photograph.",
+      "credit": "PHD Group; photographer not identified on retrieved page",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "tai-o",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/t/tai-o-village/tai-o-village-1200x630.jpg",
+      "source": "https://www.discoverhongkong.com/eng/explore/great-outdoor/tai-o-fishing-village.html",
+      "alt": "Tai O stilt-house waterfront with a pedestrian bridge.",
+      "credit": "Tai O village and waterfront / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "tsz-shan-monastery",
+      "url": "https://www.tszshan.org/home/new/common/images/lthumnail.jpg",
+      "source": "https://www.tszshan.org/home/new/en/visit.php",
+      "alt": "Tsz Shan Monastery buildings and Guanyin statue in their hillside setting.",
+      "credit": "Tsz Shan Monastery / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "videotage",
+      "url": "https://www.videotage.org.hk/_next/image?url=https%3A%2F%2Fcdn.videotage.org.hk%2Fwp-content%2Fuploads%2F2022%2F06%2F25044719%2FVideotage_door.jpg&w=3840&q=75",
+      "source": "https://www.videotage.org.hk/about",
+      "alt": "Videotage lettering on the Cattle Depot entrance door.",
+      "credit": "Videotage / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "lamma-vinyl",
+      "url": "https://static.wixstatic.com/media/3678b6_42c4fc5109f4464bbee9a900a538a0cf~mv2_d_3000_1687_s_2.jpg",
+      "source": "https://www.lammavinyl.store/",
+      "alt": "Customers browsing record bins inside Lamma Vinyl Record Store",
+      "credit": "Lamma Vinyl Record Store / 南島黑膠 / official website; photographer not named",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-sheung-wan",
+      "url": "https://temples.tungwahcsd.org/content/files/temple/man-mo-temple/HK_3A_1270.jpg",
+      "source": "https://temples.tungwahcsd.org/twghs-man-mo-temple?_lang=en",
+      "alt": "Area context — Man Mo Temple interior with hanging plaques and lanterns.",
+      "credit": "Tung Wah Group of Hospitals; individual photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-wan-chai",
+      "url": "https://kiangmalingue.com/wordpress/wp-content/uploads/2025/09/BEAU_Edouard-Malingue_Sik-On_XU-Liang-Leon_Btach-1_02-1.jpg",
+      "source": "https://kiangmalingue.com/contact/",
+      "alt": "Area context — Kiang Malingue Sik On Street exterior beside public steps.",
+      "credit": "Kiang Malingue; architectural photograph credited by filename to XU Liang Leon / BEAU, individual credit not independently confirmed",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-causeway-bay",
+      "url": "https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.thumb.800.480.png?ck=1788839894",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.html",
+      "alt": "Causeway Bay shopping street at night with illuminated signs.",
+      "credit": "Hong Kong Tourism Board / Discover Hong Kong; photographer not stated",
+      "policy": "Remote tourism-board image; no open reuse licence asserted."
+    },
+    {
+      "id": "area-tai-hang",
+      "url": "https://www.firedragon.org.hk/wp-content/uploads/2022/01/contact-img-828x1000.jpg",
+      "source": "https://www.firedragon.org.hk/en/contact-us",
+      "alt": "Area context — Tai Hang Fire Dragon Heritage Centre exterior, presented against a pink graphic background.",
+      "credit": "Tai Hang Fire Dragon Heritage Centre; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-north-point",
+      "url": "https://www.apo.hk/image/oi!/2022/oi!_Main-page/Facilities/7-%E6%B2%B9%E8%A1%97%E8%8A%B1%E5%9C%92-Oil-Garden/Desktop/oil-desktop-main-spaces-oil-garden.jpg",
+      "source": "https://www.apo.hk/en/web/apo/oi.html",
+      "alt": "Area context — Oi! garden and contemporary building edge; operator architectural photograph.",
+      "credit": "Art Promotion Office / LCSD; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-jordan",
+      "url": "https://img1.wsimg.com/isteam/ip/f433e419-2257-464b-80d7-b23036d68b5e/Tomorrow%20Maybe.jpg/:/rs=w:814,h:407,cg:true,m/cr=w:814,h:407",
+      "source": "https://tomorrowmaybehk.com/about",
+      "alt": "Area context — Tomorrow Maybe installation photograph with dual projections; historical programme view.",
+      "credit": "Tomorrow Maybe / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-sham-shui-po",
+      "url": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.thumb.800.480.png?ck=1773733087",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html",
+      "alt": "Sham Shui Po market street with stalls, umbrellas and residential blocks.",
+      "credit": "Hong Kong Tourism Board / Discover Hong Kong; photographer not stated",
+      "policy": "Remote tourism-board image; no open reuse licence asserted."
+    },
+    {
+      "id": "area-to-kwa-wan",
+      "url": "https://static.wixstatic.com/media/fab745_4f69b292c18b4919afd8752247fc97b1%7Emv2_d_6094_2381_s_2.jpg/v1/fit/w_2500,h_1330,al_c/fab745_4f69b292c18b4919afd8752247fc97b1%7Emv2_d_6094_2381_s_2.jpg",
+      "source": "https://www.oneaspace.org.hk/plan-your-visit",
+      "alt": "Area context — 1a space promotional banner showing its gallery interior; not a current exhibition claim.",
+      "credit": "1a space / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-kowloon-city",
+      "url": "https://www.discoverhongkong.com/eng/neighbourhoods/kowloon-city.thumb.800.480.png?ck=1776671254",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/kowloon-city.html",
+      "alt": "Shopkeeper at a grocery stall in Kowloon City.",
+      "credit": "Hong Kong Tourism Board / Discover Hong Kong; photographer not stated",
+      "policy": "Remote tourism-board image; no open reuse licence asserted."
+    },
+    {
+      "id": "area-tsuen-wan",
+      "url": "https://www.discoverhongkong.com/eng/neighbourhoods/tsuen-wan.thumb.800.480.png?ck=1773733456",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/tsuen-wan.html",
+      "alt": "The Mills exterior in Tsuen Wan, an area-context landmark, not the whole district.",
+      "credit": "Hong Kong Tourism Board / Discover Hong Kong; photographer not stated",
+      "policy": "Remote tourism-board image; no open reuse licence asserted."
+    },
+    {
+      "id": "area-cheung-chau",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/p/pak-tai-temple-at-cheung-chau/pak-tai-temple-1200x630.jpg",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-pak-tai-temple-at-cheung-chau.html",
+      "alt": "Area context — Pak Tai Temple facade on Cheung Chau, not a view of the whole island.",
+      "credit": "Cheung Chau harbour and Pak Tai Temple / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-diamond-hill",
+      "url": "https://www.lcsd.gov.hk/en/parks/nlg/common/graphics/nlg_banner.jpg",
+      "source": "https://www.lcsd.gov.hk/en/parks/nlg/index.html",
+      "alt": "Area context — Nan Lian Garden pond and pavilions in an operator banner.",
+      "credit": "Nan Lian Garden and Chi Lin surroundings / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-sai-wan-ho",
+      "url": "https://www.filmarchive.gov.hk/image/journal/article-27330227.jpeg",
+      "source": "https://www.filmarchive.gov.hk/en/web/hkfa/facilities.html",
+      "alt": "Area context — Seating and screen inside the Hong Kong Film Archive cinema.",
+      "credit": "Hong Kong Film Archive screening / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-sha-tin",
+      "url": "https://www.heritagemuseum.gov.hk/images/Exhibition/bruce_lee/BLL_1032_1920x1080.jpg",
+      "source": "https://www.heritagemuseum.gov.hk/en/exhibitions/bruce_lee.html",
+      "alt": "Area context — Installation view from the Heritage Museum Bruce Lee exhibition.",
+      "credit": "Hong Kong Heritage Museum: Bruce Lee and popular culture / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-shek-o-country-park",
+      "url": "https://www.hiking.gov.hk/console/public/uploads/trail/watermark/685e15f9cf84b.jpg",
+      "source": "https://www.hiking.gov.hk/trail/info/id/UWgvZytZSlRrcnBJSU5DWVZUa2pyUT09/",
+      "alt": "Area context — View over Shek O and the coast from the Dragon’s Back route.",
+      "credit": "Agriculture, Fisheries and Conservation Department; photographer not stated",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-tai-o",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/t/tai-o-village/tai-o-village-1200x630.jpg",
+      "source": "https://www.discoverhongkong.com/eng/explore/great-outdoor/tai-o-fishing-village.html",
+      "alt": "Area context — Tai O stilt-house waterfront with a pedestrian bridge.",
+      "credit": "Tai O village and waterfront / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-the-peak",
+      "url": "https://www.discoverhongkong.com/content/dam/dhk/data/poi/media/p/peak-circle-walk/peak-circle-walk-01.jpg",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-peak-circle-walk.html",
+      "alt": "Area context — Harbour panorama from the Peak Circle Walk.",
+      "credit": "The Peak via Lugard Road / Peak Circle Walk / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-tung-tsz",
+      "url": "https://www.tszshan.org/home/new/common/images/lthumnail.jpg",
+      "source": "https://www.tszshan.org/home/new/en/visit.php",
+      "alt": "Area context — Tsz Shan Monastery buildings and Guanyin statue in their hillside setting.",
+      "credit": "Tsz Shan Monastery / official website; photographer not identified",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    },
+    {
+      "id": "area-west-kowloon",
+      "url": "https://www.mplus.org.hk/api/images/2261/width-1200|format-jpeg/",
+      "source": "https://www.mplus.org.hk/en/plan-your-visit/",
+      "alt": "Area context — M+ gallery interior with abstract paintings and a bench; not the exterior facade.",
+      "credit": "M+; individual photographer not identified on retrieved page",
+      "policy": "Remote operator-hosted image. Copyright remains with the owner; no open reuse licence asserted."
+    }
+  ]
+}
